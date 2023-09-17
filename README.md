@@ -1,8 +1,7 @@
 ## Aloha Fruits Eater 🍍
 
-<!--
-**Lt-Dan-Taylor/Lt-Dan-Taylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<--
+**My name is Ricko**  and I'm a ✨self-taught Data Analyst wannabe✨
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
