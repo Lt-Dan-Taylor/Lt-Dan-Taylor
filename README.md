@@ -2,4 +2,6 @@
 # Aloha~ fruits eater 🍍
 
 
-**I'm Ricko** a ✨self-taught Data Analyst✨ wannabe😳
+**I'm Ricko** a self-taught ✨Data Analyst✨ wannabe😳
+
+
