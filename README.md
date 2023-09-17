@@ -1,6 +1,6 @@
 ## Aloha Fruits Eater 🍍
 
-<--
+
 **My name is Ricko**  and I'm a ✨self-taught Data Analyst wannabe✨
 Here are some ideas to get you started:
 
@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
