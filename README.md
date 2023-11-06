@@ -1,6 +1,13 @@
-![bananavariablegif](https://github.com/Lt-Dan-Taylor/Lt-Dan-Taylor/assets/135341870/2e661092-374e-4938-9e53-4d7922d47cc5)
 # Aloha ~ 🍍👋
 
-I'm Ricko (22 years old), a self-taught ✨Data Analyst✨ with a passion to learn and experiment the world of data. Despite not having a formal college degree, I strongly believe in the power of free and accessible education
+I'm Ricko, a 22 years old self-taught ✨Data Analyst✨. I have a passion for diving into the world of data, continuously learning and experimenting. While I don't have a formal college degree, I hold a strong belief in the transformative potential of free and accessible education. 
 
-- 🌍 Jakarta, Indonesia
+Here's a quick overview of my skills, aspirations and contact:
+
+- 📊 Data Analytics
+- 🐍 Programming Language : Python, SQL
+- 💾 Databases: MySQL, MongoDB, GoogleBigQuery
+- 💻 Platform/Tools: Jupyter Notebook, dbt
+- 💡  Aspire to be : Spatial Data Scientist
+- ✉️ Contact : rickojanuarh@gmail.com
+- 🌍 Bogor, Indonesia
