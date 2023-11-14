@@ -3,7 +3,7 @@
 
 # Aloha ~ 🍍👋
 
-I'm Ricko, a self-taught ✨Data Analyst✨. I have a passion for diving into the world of data, continuously learning and experimenting. While I don't have a formal IT academic background, I hold a strong belief in the transformative potential of free and accessible education. 
+I'm Ricko, a self-taught ✨Data Analyst✨. I have a passion for diving into the world of data, continuously learning and experimenting.
 
 Here's a quick overview of my skills, aspirations and contact:
 
