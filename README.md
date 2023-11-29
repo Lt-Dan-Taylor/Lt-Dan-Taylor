@@ -1,3 +1,5 @@
+![](https://github.com/Lt-Dan-Taylor/southeast-asia-covid19-eda/assets/135341870/06e578fd-ddcd-4689-b655-f3e724e99293)
+
 <h1 align="left">Aloha 👋, I'm Ricko 🍍~</h1>
 <h3 align="left">A self-taught ✨Data Analyst✨. I have a passion for diving into the world of data, continuously learning and experimenting.</h3>
 
