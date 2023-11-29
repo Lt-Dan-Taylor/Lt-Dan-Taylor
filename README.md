@@ -17,9 +17,6 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="36" height="36"/>
   </a>
-</p>
-
-<p align="left">
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://vectorwiki.com/images/rQlsB__numpy.svg" alt="seaborn" width="36" height="36"/>
   </a>
@@ -35,9 +32,6 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="36" height="36"/>
   </a>
-</p>
-
-<p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://vectorwiki.com/images/8OeKq__mysql.svg" alt="mysql" width="36" height="36"/>
   </a>
