@@ -13,7 +13,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="36" height="36"/>
-  <img src="https://vectorwiki.com/images/rQlsB__numpy.svg" alt="seaborn" width="36" height="36"/>
+  <img src="https://vectorwiki.com/images/rQlsB__numpy.svg" alt="numpy" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="36" height="36"/>
   <img src="https://scipy.org/images/logo.svg" alt="scipy" width="36" height="36"/>
   <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svg" alt="statsmodels" width="36" height="36"/>
