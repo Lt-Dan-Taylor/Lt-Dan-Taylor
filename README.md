@@ -11,20 +11,21 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="36" height="36"/>
-  <img src="https://vectorwiki.com/images/rQlsB__numpy.svg" alt="numpy" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="36" height="36"/>
-  <img src="https://scipy.org/images/logo.svg" alt="scipy" width="36" height="36"/>
-  <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svg" alt="statsmodels" width="36" height="36"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="36" height="36"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="66" height="36"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="66" height="36"/>
-  <img src="https://vectorwiki.com/images/4tJ8T__google-bigquery-logo.svg" alt="bigquery" width="36" height="36"/>
-  <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="36" height="36"/>
-  <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" width="40" height="36"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
-  <a href="https://public.tableau.com/app/profile/ricko.januar/vizzes" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/wbGV8__tableau-software.svg" alt="tableau" width="36" height="36"/> </a>
-  <img src="https://vectorwiki.com/images/OxcfK__microsoft-excel-2013.svg" alt="msexcel" width="36" height="36"/>
+  <img src="img/python-logo.svg" alt="python" width="36" height="36"/>
+  <img src="img/c-logo.svg" alt="c" width="36" height="36"/>
+  <img src="img/numpy-logo.svg" alt="numpy" width="36" height="36"/>
+  <img src="img/pandas-logo.svg" alt="pandas" width="36" height="36"/>
+  <img src="img/scipy-logo.svg" alt="scipy" width="36" height="36"/>
+  <img src="img/statsmodels-logo.svg" alt="statsmodels" width="36" height="36"/>
+  <img src="img/seaborn-logo.svg" alt="seaborn" width="36" height="36"/>
+  <img src="img/mysql-logo.svg" alt="mysql" width="66" height="36"/>
+  <img src="img/mongodb-logo.svg" alt="mongodb" width="66" height="36"/>
+  <img src="img/bigquery-logo.svg" alt="bigquery" width="36" height="36"/>
+  <img src="img/dbt-logo.svg" alt="dbt" width="36" height="36"/>
+  <img src="img/jupyter-logo.svg" alt="jupyter" width="40" height="36"/>
+  <img src="img/git-logo.svg" alt="git" width="36" height="36"/>
+  <a href="https://public.tableau.com/app/profile/ricko.januar/vizzes" target="_blank" rel="noreferrer"> <img src="img/tableau-logo.svg" alt="tableau" width="36" height="36"/> </a>
+  <img src="img/qgis-logo.svg" alt="qgis" width="36" height="36"/>
+  <img src="img/microsoft excel-logo.svg" alt="msexcel" width="36" height="36"/>
 </p>
 
