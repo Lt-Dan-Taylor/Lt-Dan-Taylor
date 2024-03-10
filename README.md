@@ -13,11 +13,13 @@
 <p align="left">
   <img src="img/python-logo.svg" alt="python" width="36" height="36"/>
   <img src="img/c-logo.svg" alt="c" width="36" height="36"/>
+  <img src="img/bash-logo.svg" alt="bash" width="36" height="36"/>
   <img src="img/numpy-logo.svg" alt="numpy" width="36" height="36"/>
   <img src="img/pandas-logo.svg" alt="pandas" width="36" height="36"/>
   <img src="img/scipy-logo.svg" alt="scipy" width="36" height="36"/>
   <img src="img/statsmodels-logo.svg" alt="statsmodels" width="36" height="36"/>
   <img src="img/seaborn-logo.svg" alt="seaborn" width="36" height="36"/>
+  <img src="img/postgresql-logo.svg" alt="postgreqsl" width="36" height="36"/>
   <img src="img/mysql-logo.svg" alt="mysql" width="66" height="36"/>
   <img src="img/mongodb-logo.svg" alt="mongodb" width="66" height="36"/>
   <img src="img/bigquery-logo.svg" alt="bigquery" width="36" height="36"/>
